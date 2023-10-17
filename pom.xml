@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.blackline</groupId>
-	<artifactId>config-server</artifactId>
+	<artifactId>spring-cloud-bus-and-monitor</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>config-server</name>
 	<description>Demo project for Spring Boot</description>
